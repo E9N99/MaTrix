@@ -4,7 +4,7 @@ import base64
 
 
 repo_encoded = "aHR0cHM6Ly9naXRodWIuY29tL2FsaTQxNGE0NGFsaS9tYXRyaXg"
-branch = "maen"
+branch = "main"
 
 def run(cmd):
     print(f"⌭ تنفيذ: {cmd}")
