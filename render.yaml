@@ -16,6 +16,8 @@ services:
         value: "9671629"
       - key: API_HASH
         value: "be5c84e9dc1ca0e2b53d54b71e575124"
+      - key: BRANCH
+        value: "main"
       - key: ALIVE_NAME
         sync: false
       - key: ENV
